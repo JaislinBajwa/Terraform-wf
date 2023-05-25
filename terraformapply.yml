@@ -1,4 +1,4 @@
-nname: d-deployment
+name: d-deployment
 
 on:
   workflow_dispatch:
